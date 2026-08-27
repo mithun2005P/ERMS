@@ -1,2 +1,3 @@
 |EmployeeID|Employee Name|Department|Designation|Salary|
-|0001      |ADRASH       
+|0001      |ADRASH       |stdnt cncl|fyw        |700000|
+|0001      |koushik      |president| fruhre     |800000|
